@@ -1,0 +1,17 @@
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.deps.json
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.runtimeconfig.json
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.runtimeconfig.dev.json
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.pdb
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.pdb
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.csprojAssemblyReference.cache
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.csproj.CoreCompileInputs.cache
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.AssemblyInfoInputs.cache
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.AssemblyInfo.cs
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.csproj.CopyComplete
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.pdb
