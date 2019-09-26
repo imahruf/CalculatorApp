@@ -1,0 +1,8 @@
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/CalculatorApp.Services.deps.json
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/CalculatorApp.Services.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/CalculatorApp.Services.pdb
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.csprojAssemblyReference.cache
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.AssemblyInfoInputs.cache
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.AssemblyInfo.cs
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.dll
+/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.pdb
