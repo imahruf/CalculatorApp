@@ -1620,9 +1620,18 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "XunitXml.TestLogger/2.1.26": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/_._": {}
+        }
+      },
       "CalculatorApp.Services/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "XunitXml.TestLogger": "2.1.26"
+        },
         "compile": {
           "bin/placeholder/CalculatorApp.Services.dll": {}
         },
@@ -5824,6 +5833,21 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "XunitXml.TestLogger/2.1.26": {
+      "sha512": "jPP+0SR33SK2rAnkbzx3DnltwiTrCbWcDBPWNDoKfW1SLT+Wq/YJlGGNkjpkNkU5VqhgfIuqhyWPAgYM4iMOow==",
+      "type": "package",
+      "path": "xunitxml.testlogger/2.1.26",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll",
+        "build/net45/XunitXml.TestLogger.props",
+        "build/netstandard1.0/XunitXml.TestLogger.props",
+        "xunitxml.testlogger.2.1.26.nupkg.sha512",
+        "xunitxml.testlogger.nuspec"
+      ]
+    },
     "CalculatorApp.Services/1.0.0": {
       "type": "project",
       "path": "../CalculatorApp.Services/CalculatorApp.Services.csproj",
@@ -5846,11 +5870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/CalculatorApp.Services.Tests.csproj",
+      "projectUniqueName": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services.Tests/CalculatorApp.Services.Tests.csproj",
       "projectName": "CalculatorApp.Services.Tests",
-      "projectPath": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/CalculatorApp.Services.Tests.csproj",
+      "projectPath": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services.Tests/CalculatorApp.Services.Tests.csproj",
       "packagesPath": "/Users/miqbal/.nuget/packages/",
-      "outputPath": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services.Tests/obj/",
+      "outputPath": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5867,8 +5891,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj": {
-              "projectPath": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj"
+            "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj": {
+              "projectPath": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj"
             }
           }
         }

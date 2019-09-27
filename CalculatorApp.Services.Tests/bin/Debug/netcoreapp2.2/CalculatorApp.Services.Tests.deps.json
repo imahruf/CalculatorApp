@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "db1f9d117a95dc559c072f54ce4c28a07e463bc2"
+    "signature": "45be2a330e6d7580e7abfc339abf017d4d90af49"
   },
   "compilationOptions": {},
   "targets": {
@@ -1018,7 +1018,11 @@
           }
         }
       },
+      "XunitXml.TestLogger/2.1.26": {},
       "CalculatorApp.Services/1.0.0": {
+        "dependencies": {
+          "XunitXml.TestLogger": "2.1.26"
+        },
         "runtime": {
           "CalculatorApp.Services.dll": {}
         }
@@ -1520,6 +1524,13 @@
       "sha512": "sha512-Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "XunitXml.TestLogger/2.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jPP+0SR33SK2rAnkbzx3DnltwiTrCbWcDBPWNDoKfW1SLT+Wq/YJlGGNkjpkNkU5VqhgfIuqhyWPAgYM4iMOow==",
+      "path": "xunitxml.testlogger/2.1.26",
+      "hashPath": "xunitxml.testlogger.2.1.26.nupkg.sha512"
     },
     "CalculatorApp.Services/1.0.0": {
       "type": "project",

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="09/27/2019 11:49:32">
+  <assembly name="/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services.Tests/bin/Debug/netcoreapp2.2/CalculatorApp.Services.Tests.dll" run-date="2019-09-27" run-time="11:49:32" total="2" passed="2" failed="0" skipped="0" time="0.006" errors="0">
+    <errors />
+    <collection total="2" passed="2" failed="0" skipped="0" name="Test collection for CalculatorApp.Services.Tests.CalculatorTest" time="0.006">
+      <test name="shouldaddtwonumbers" type="CalculatorApp.Services.Tests.CalculatorTest" method="shouldaddtwonumbers" time="0.0060883" result="Pass">
+        <traits />
+      </test>
+      <test name="shouldsubstracttwonumbers" type="CalculatorApp.Services.Tests.CalculatorTest" method="shouldsubstracttwonumbers" time="0.0001322" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

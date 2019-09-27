@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj": {}
+    "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj": {}
   },
   "projects": {
-    "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj": {
+    "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj",
+        "projectUniqueName": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj",
         "projectName": "CalculatorApp.Services",
-        "projectPath": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj",
+        "projectPath": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/CalculatorApp.Services.csproj",
         "packagesPath": "/Users/miqbal/.nuget/packages/",
-        "outputPath": "/Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/",
+        "outputPath": "/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "XunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[2.1.26, )"
             }
           },
           "imports": [

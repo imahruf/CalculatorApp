@@ -7,3 +7,14 @@
 /Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.AssemblyInfo.cs
 /Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.dll
 /Users/miqbal/Dev/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.pdb
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/CalculatorApp.Services.deps.json
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/CalculatorApp.Services.dll
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/bin/Debug/netstandard2.0/CalculatorApp.Services.pdb
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.csprojAssemblyReference.cache
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.csproj.CoreCompileInputs.cache
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.AssemblyInfoInputs.cache
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.AssemblyInfo.cs
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.dll
+/Users/miqbal/Mahruf/downloads/CalculatorApp/CalculatorApp.Services/obj/Debug/netstandard2.0/CalculatorApp.Services.pdb
